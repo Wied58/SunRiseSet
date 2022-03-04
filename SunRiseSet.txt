@@ -1,0 +1,4 @@
+The current time is: 2022-03-03 23:23:26.150770+00:00, and the sun angle is: 3.1172993796320023
+Current Conditions: daylight
+The next nautical sunset occurs at: 2022-03-04 00:48:26.150770+00:00
+The next nautical sunrise occurs at: 2022-03-04 11:23:26.150770+00:00
